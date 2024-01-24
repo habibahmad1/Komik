@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Komik</string>
+
+    <string name="komik_name">Nama Komik</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="detail_nama">Nama Komik</string>
+    <string name="detail_deskripsi">Deskripsi </string>
+    <string name="detail_title">Detail</string>
+    <string name="detail_about">About Me</string>
+    <string-array name="data_name">
+        <item>Naruto</item>
+        <item>One Piece</item>
+        <item>Detektif Conan</item>
+        <item>Doraemon</item>
+        <item>Fullmetal Alchemist</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Sword Art Online</item>
+        <item>Kimetsu no Yaiba</item>
+        <item>Oregairu</item>
+        <item>Bleach</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Naruto (ナルト) adalah sebuah serial manga karya Masashi Kishimoto yang diadaptasi menjadi serial anime. Manga Naruto bercerita seputar kehidupan tokoh utamanya, Naruto Uzumaki, seorang ninja yang hiperaktif, periang, dan ambisius yang ingin mewujudkan keinginannya untuk mendapatkan gelar Hokage, pemimpin dan ninja terkuat di desanya. Serial ini didasarkan pada komik one-shot oleh Kishimoto yang diterbitkan dalam edisi Akamaru Jump pada Agustus 1997</item>
+        <item>One Piece (Jepang: ワンピース, Hepburn: Wan Pīsu) adalah sebuah seri manga Jepang yang ditulis dan diilustrasikan oleh Eiichiro Oda. Manga ini telah dimuat di majalah Weekly Shōnen Jump milik Shueisha sejak tanggal 22 Juli 1997, dan telah dibundel menjadi 105 volume tankōbon hingga Maret 2023. Ceritanya mengisahkan petualangan Monkey D. Luffy, seorang anak laki-laki yang memiliki kemampuan tubuh elastis seperti karet setelah memakan Buah Iblis secara tidak disengaja. Luffy bersama kru bajak lautnya, yang dinamakan Bajak Laut Topi Jerami, menjelajahi Grand Line untuk mencari harta karun terbesar di dunia yang dikenal sebagai "One Piece" dalam rangka untuk menjadi Raja Bajak Laut yang berikutnya.</item>
+        <item>Detektif Conan (名探偵コナン, Meitantei Konan), yang juga dikenal sebagai Case Closed dan Detective Conan, adalah seri manga detektif Jepang yang ditulis dan diilustrasikan oleh Gosho Aoyama yang diterbitkan oleh Shogakukan sejak Januari 1994, dengan bab-babnya dikumpulkan dalam beberapa volume tankōbon. Karena masalah hukum dengan nama Detective Conan, rilisan bahasa Inggris dari Funimation dan Viz diubah namanya menjadi Case Closed. Serial ini bercerita mengenai detektif SMA bernama Shinichi Kudo yang tubuhnya menyusut menjadi kecil ketika menyelidiki sebuah organisasi misterius dan umumnya memecahkan banyak kasus dengan meniru suara dari ayah teman masa kecilnya dan berbagai karakter lain.</item>
+        <item>Doraemon (ドラえもん, Doraemon) adalah judul sebuah manga dan anime populer yang dikarang Fujiko F. Fujio (藤子・F・不二雄, nama asli: Hiroshi Fujimoto) sejak Desember 1969 dan berkisah tentang kehidupan seorang anak pemalas kelas 5 sekolah dasar yang bernama Nobita Nobi (野比のび太) yang didatangi oleh sebuah robot kucing bernama Doraemon yang datang dari abad ke-22. Doraemon dikirim untuk menolong Nobita agar keturunannya dapat menikmati kesuksesannya daripada harus menderita dari utang finansial yang akan terjadi pada masa depan yang disebabkan karena kebodohan Nobita.</item>
+        <item>Fullmetal Alchemist (鋼の錬金術師, Hagane no Renkinjutsushi) adalah sebuah anime dan manga karya Hiromu Arakawa. Fullmetall Alchemist diterbitkan dalam majalah manga Monthly Shonen Gangan sejak tahun 2002 dan dalam bentuk tankobon oleh Square Enix. Di Indonesia, komik ini diterbitkan Elex Media Komputindo sejak Mei 2007.</item>
+        <item>Jujutsu Kaisen (Jepang: 呪術廻戦, terj. har. "Pertarungan Sihir") adalah sebuah seri manga shōnen asal Jepang yang ditulis dan diilustrasikan oleh Gege Akutami. Manga ini dimuat berseri dalam majalah Weekly Shōnen Jump terbitan Shueisha sejak Maret 2018, dan telah diterbitkan menjadi dua puluh empat volume tankōbon per Oktober 2023.</item>
+        <item>Sword Art Online (Jepang: ソードアート・オンライン) adalah serial novel ringan Jepang yang ditulis oleh Reki Kawahara dan diilustrasikan oleh ABEC. Serial ini berlangsung pada masa depan yang dekat dan berfokus pada berbagai dunia permainan realitas virtual MMORPG. Sword Art Online mulai diterbitkan pada label ASCII Media Works Dengeki Bunko sejak 10 April 2009, dengan peluncuran serial sempalan pada Oktober 2012. Serial ini telah melahirkan lima adaptasi manga. </item>
+        <item>Kimetsu no Yaiba (Jepang: 鬼滅の刃, terj. har. "Korps Pembasmi Iblis"), yang diterbitkan di Indonesia dengan judul Demon Slayer: Kimetsu no Yaiba, adalah sebuah seri manga Jepang yang ditulis dan diilustrasikan oleh Koyoharu Gotōge. Ceritanya mengisahkan tentang Tanjiro Kamado, seorang anak laki-laki yang menjadi pembasmi iblis setelah keluarganya dibantai oleh iblis dan adik perempuannya yang bernama Nezuko diubah menjadi iblis.</item>
+        <item>Yahari Ore no Seishun Rabukome wa Machigatteiru. (Jepang: やはり俺の青春ラブコメはまちがっている。), disingkat menjadi OreGairu (俺ガイル) adalah sebuah seri novel ringan asal Jepang yang ditulis oleh Wataru Watari dan diilustrasikan oleh Ponkan8. Seri ini mengisahkan tentang Hachiman Hikigaya, seorang remaja yang bersifat pesimis, berpikiran tertutup, dan realistis, yang dipaksa oleh gurunya untuk bergabung dengan klub layanan di sekolahnya dan bekerja sama dengan dua orang gadis yang memiliki masalahnya masing-masing. Mereka menawarkan bantuan dan saran kepada orang lain sembari menangani konflik batin yang dialami mereka.</item>
+        <item>Bleach (Jepang: ブリーチ, Hepburn: Burīchi) merupakan sebuah seri manga shōnen Jepang yang ditulis dan diilustrasikan oleh Tite Kubo. Alur ceritanya mengisahkan petualangan remaja keras kepala bernama Ichigo Kurosaki yang mewarisi takdir kedua orangtuanya, setelah dia mendapatkan kekuatan Shinigami. Di Wikipedia bahasa Inggris, "Dewa Kematian" merujuk ke artikel karakter Bleach, dan "Shinigami" merujuk ke artikel mengenai shinigami, sebuah personifikasi kematian yang mirip dengan Malaikat Maut. Dari Shinigami lainnya, Rukia Kuchiki, kekuatan baru ini memaksa Ichigo untuk melakukan tugas melindungi manusia dari roh-roh jahat dan menuntun jiwa-jiwa yang mati ke alam baka. Membawanya ke petualangan-petualangan di berbagai alam spiritual yang ada.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/naruto</item>
+        <item>@drawable/one_piece</item>
+        <item>@drawable/conan</item>
+        <item>@drawable/doraemon</item>
+        <item>@drawable/fullmetal</item>
+        <item>@drawable/jujutsu</item>
+        <item>@drawable/kirito</item>
+        <item>@drawable/kimetsu</item>
+        <item>@drawable/oregairu</item>
+        <item>@drawable/bleach</item>
+    </integer-array>
+</resources>
